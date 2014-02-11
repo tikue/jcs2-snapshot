@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>org.apache.commons</groupId>
+  <artifactId>commons-jcs</artifactId>
+  <versioning>
+    <versions>
+      <version>2.0-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20140211121348</lastUpdated>
+  </versioning>
+</metadata>
